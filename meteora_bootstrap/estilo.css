@@ -1,0 +1,19 @@
+.texto-menor{
+    font-size: 13px;
+}
+
+.divs-facilidades{
+
+    width: 325px;
+}
+
+.facilidades_verde{
+    color: #DAFF01;
+}
+
+.botao_roxo{
+    background-color: #9353FF;
+}
+.btn:hover{
+    background-color: pink;
+}
